@@ -1,0 +1,12 @@
+   1  git init
+    2  ls
+    3  git config --global user.name "VaibhavAkolkar"
+    4  git config --global user.email "akvaibhav87@gmail.com"
+    5  git config --list
+    6  git status
+    7  git add sample.txt
+    8  git commit -m "sample file created"
+    9  git remote add origin https://github.com/VaibhavAkolkar/Industrialtool26jun.git
+   10  git push origin master
+   11  git push -f origin master
+   12  history
